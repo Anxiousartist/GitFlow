@@ -1,1 +1,1 @@
-Valparaiso Crusaders	28	6	30	7
+Valparaiso Crusaders	28	6	30	IN,RI,OR,IL,MI,OH,KY,WI,NY	7	OR,IN,TN,OH,MI,NY
