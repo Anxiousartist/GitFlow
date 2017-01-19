@@ -1,1 +1,1 @@
-Colorado Buffaloes	16	18	22	12
+Colorado Buffaloes	16	18	22	AL,CO,NV,CA,WA	  12	SD,NV,CA,CO,WA,OR,CA,UT,IA
