@@ -1,1 +1,1 @@
-Arizona State		18	16	15	17
+Arizona State		18	16	15	AZ,CA,WA,CT	17	MO,TX,WI,AZ,OR,CA,WA,UT,CO,NV,VA
